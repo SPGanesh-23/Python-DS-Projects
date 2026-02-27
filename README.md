@@ -24,29 +24,11 @@ Each week focuses on a different dataset and applies core data analysis concepts
 
 ---
 
-## Skills Practiced
-- Data cleaning and preprocessing  
-- Indexing and slicing (`loc`, `iloc`)  
-- Grouping and aggregation (`groupby`)  
-- Reshaping (`pivot`, `melt`)  
-- Merging, joining, concatenation  
-- Statistical analysis (mean, median, variance, survival rates)  
-- Efficient numerical computation with NumPy  
-
----
-
 ## Technologies Used
 - Python  
 - Pandas  
 - NumPy  
 - Jupyter Notebook / Google Colab  
-
----
-
-## Learning Outcomes
-- Apply Pandas and NumPy to real-world datasets.  
-- Extract meaningful insights through statistical and exploratory analysis.  
-- Build a strong foundation for advanced data analytics and machine learning projects.  
 
 ---
 
