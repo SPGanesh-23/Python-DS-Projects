@@ -1,4 +1,4 @@
-# 📊 Weekly Data Analysis Projects
+# Weekly Data Analysis Projects
 
 ## Overview
 This repository contains a collection of weekly data analysis projects completed as part of my learning journey in Python, Pandas, NumPy, and related libraries.  
@@ -6,7 +6,7 @@ Each week focuses on a different dataset and applies core data analysis concepts
 
 ---
 
-## 📅 Project Index
+## Project Index
 
 ### Week 1 – Sales Data Analysis Using NumPy
 - **Date of Submission** 21/02/2026
@@ -24,7 +24,7 @@ Each week focuses on a different dataset and applies core data analysis concepts
 
 ---
 
-## 🔑 Skills Practiced
+## Skills Practiced
 - Data cleaning and preprocessing  
 - Indexing and slicing (`loc`, `iloc`)  
 - Grouping and aggregation (`groupby`)  
@@ -35,7 +35,7 @@ Each week focuses on a different dataset and applies core data analysis concepts
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -43,7 +43,7 @@ Each week focuses on a different dataset and applies core data analysis concepts
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Apply Pandas and NumPy to real-world datasets.  
 - Extract meaningful insights through statistical and exploratory analysis.  
 - Build a strong foundation for advanced data analytics and machine learning projects.  
