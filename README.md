@@ -12,7 +12,7 @@ Each week focuses on a different dataset and applies core data analysis concepts
 - **Date of Submission** 21/02/2026
 - **Objective:** Analyze supermarket sales data using NumPy array operations.  
 - **Key Concepts:** Array manipulation, broadcasting, indexing, slicing, statistical functions.  
-- `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+- <a href='https://github.com/SPGanesh-23/Python-DS-Projects/tree/main/Week%201%20-%20Sales%20Data%20Analysis'>Click Here</a>
 
 ---
 
@@ -20,7 +20,7 @@ Each week focuses on a different dataset and applies core data analysis concepts
 - **Date of Submission** 27/02/2026
 - **Objective:** Explore Titanic passenger survival patterns using Pandas Series and DataFrames.  
 - **Key Concepts:** Data cleaning, indexing, filtering, grouping, merging, pivot/melt, aggregation.  
-- `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+- <a href='https://github.com/SPGanesh-23/Python-DS-Projects/tree/main/Week%202%20-%20Titanic%20Dataset%20Analysis'>Click Here</a>
 
 ---
 
