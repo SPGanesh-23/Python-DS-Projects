@@ -1,7 +1,3 @@
-Below is a **README with the same structure and formatting style** as your Titanic project README, but adapted for your **Weather Data Analysis and Seasonal Trend Visualization Using Python** project.
-
----
-
 # Weather Data Analysis and Seasonal Trend Visualization Using Python
 
 ## Project Overview
