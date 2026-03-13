@@ -24,6 +24,14 @@ Each week focuses on a different dataset and applies core data analysis concepts
 
 ---
 
+### Week 3 – Weather Data Analysis and Seasonal Trend Visualization Using Python
+- **Date of Submission :** 06/03/2026
+- **Objective :** Analyze weather data using Exploratory Data Analysis (EDA) techniques to identify seasonal patterns and climate trends.
+- **Key Concepts :** Data cleaning, datetime processing, exploratory data analysis (EDA), data visualization, line plots, bar charts, histograms, scatter plots, pie charts.
+- <a href='https://github.com/SPGanesh-23/Python-DS-Projects/tree/main/Week%203%20-%20Weather%20Data%20Analysis'>Click Here</a>
+
+---
+
 ## Technologies Used
 - Python  
 - Pandas  
